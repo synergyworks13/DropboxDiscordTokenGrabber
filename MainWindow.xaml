@@ -1,0 +1,15 @@
+﻿<Window x:Name="MainWindow1" x:Class="DropboxDiscordTokenGrabber.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DropboxDiscordTokenGrabber"
+        mc:Ignorable="d"
+        xmlns:gif="http://wpfanimatedgif.codeplex.com"
+        Title="Discord Updater" Height="425" Width="350" Icon="discordlogo.png" ResizeMode="NoResize" WindowStartupLocation="CenterScreen" FontFamily="/DropboxDiscordTokenGrabber;component/Resources/Fonts/#Noto Sans" WindowStyle="None" Background="#FF24252A">
+    <Grid>
+        <Image x:Name="DiscordLoadingGif" gif:ImageBehavior.RepeatBehavior="Forever" gif:ImageBehavior.AnimatedSource="Resources/Images/discordloading.gif" HorizontalAlignment="Left" Height="222" Margin="68,10,0,0" VerticalAlignment="Top" Width="215" Source="Resources/Images/discordloading.gif"/>
+        <Label x:Name="UpdatingLabel" Content="Updating Discord..." HorizontalAlignment="Left" Margin="104,345,0,0" VerticalAlignment="Top" FontSize="16" Foreground="White"/>
+
+    </Grid>
+</Window>
