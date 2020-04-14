@@ -9,7 +9,7 @@ The program looks like a Discord Update, but it actually gets the tokens from th
  - Go to dropbox.com/developers and create a new app.
  - Chose Dropbox API and give it full access. You can name it to anything you like.
  - Generate a new Dropbox access token and paste it in the project to Grabbing.cs line 25. (string DropboxToken)
- - Save the solution, exit from Visual Studion, delete the bin and obj files, restart and build the solution
+ - Save the solution, exit from Visual Studio, delete the bin and obj files, restart and build the solution
  - Build your app and you are ready. (**The generated .dll files with the executable are necessary. You may want to make a self extractor executable, if you want it to be only an .exe file. You may also want to "Restore NuGet packages." in Visual Studio.**)
 
 **Huge thanks to:**
