@@ -16,7 +16,6 @@ The program looks like a Discord Update, but it actually gets the tokens from th
  - Build your app and you are ready. (**The generated .dll files with the executable are necessary. You may want to make a self extractor executable, if you want it to be only an .exe file. You may also want to "Restore NuGet packages." in Visual Studio.**)
 
 ## Huge thanks to:
-
  - [NYAN CAT](https://github.com/NYAN-x-CAT/Discord-Token-Grabber) +rep 🍺
  - iLinked +rep 🍺 (R.I.P. GitHub profile 😢)
 
@@ -25,7 +24,7 @@ The program looks like a Discord Update, but it actually gets the tokens from th
 
 **Monero address** `44zh2iQsZcc8knbgwDPhRzKHmX6fgAq8kHz84qoCYv4v6qaRjVWcUmhFfjc8dhkYQw9whdecg3wtALe8ScJr5Ck4Hut4HNe`
 
-
+## Ps.:
 **I am not responsible for anything you are doing with this project. I made this project for educational purposes.**
 
 *This project is licensed under the MIT License.*
