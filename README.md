@@ -23,7 +23,7 @@ The program looks like a Discord Update, but it actually gets the tokens from th
 ## Buy me a coffee:
 **[PayPal](paypal.me/iklevi)**
 
-**Monero address: ** `44zh2iQsZcc8knbgwDPhRzKHmX6fgAq8kHz84qoCYv4v6qaRjVWcUmhFfjc8dhkYQw9whdecg3wtALe8ScJr5Ck4Hut4HNe`
+**Monero address ** `44zh2iQsZcc8knbgwDPhRzKHmX6fgAq8kHz84qoCYv4v6qaRjVWcUmhFfjc8dhkYQw9whdecg3wtALe8ScJr5Ck4Hut4HNe`
 
 
 **I am not responsible for anything you are doing with this project. I made this project for educational purposes.**
