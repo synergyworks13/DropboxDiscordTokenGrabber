@@ -19,7 +19,7 @@ The program looks like a Discord Update, but it actually gets the tokens from th
  - iLinked +rep 🍺 (R.I.P. GitHub profile 😢)
 
 ## Buy me a coffee ☕:
-**[PayPal](paypal.me/iklevi)**
+**[PayPal](https://www.paypal.me/iklevi)**
 
 **Monero address** `44zh2iQsZcc8knbgwDPhRzKHmX6fgAq8kHz84qoCYv4v6qaRjVWcUmhFfjc8dhkYQw9whdecg3wtALe8ScJr5Ck4Hut4HNe`
 
