@@ -18,10 +18,12 @@ The program looks like a Discord Update, but it actually gets the tokens from th
  - [NYAN CAT](https://github.com/NYAN-x-CAT/Discord-Token-Grabber) +rep 🍺
  - iLinked +rep 🍺 (R.I.P. GitHub profile 😢)
 
-## Buy me a coffee ☕:
+ ## Buy me a coffee ☕:
 **[PayPal](https://www.paypal.me/iklevi)**
 
-**Monero address** `44zh2iQsZcc8knbgwDPhRzKHmX6fgAq8kHz84qoCYv4v6qaRjVWcUmhFfjc8dhkYQw9whdecg3wtALe8ScJr5Ck4Hut4HNe`
+**Bitcoin wallet:** `bc1qa4a6w0mzp43423t2ctxx958uff4yhkazxag7ya`
+
+**Monero address:** `44zh2iQsZcc8knbgwDPhRzKHmX6fgAq8kHz84qoCYv4v6qaRjVWcUmhFfjc8dhkYQw9whdecg3wtALe8ScJr5Ck4Hut4HNe`
 
 ## Ps.:
 **I am not responsible for anything you are doing with this project. I made this project for educational purposes.**
